@@ -225,6 +225,8 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  '~*x Massachusetts ~*": [
+  '	"Do you know Sarah Sieber?",
 };
 
 var default_responses = [
