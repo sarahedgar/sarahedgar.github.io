@@ -225,7 +225,7 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
-  '~*x Massachusetts ~*": [
+  '~*x Massachusetts ~*y": [
   '	"Do you know Sarah Sieber?",
 };
 
